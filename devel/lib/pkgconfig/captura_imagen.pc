@@ -1,0 +1,8 @@
+prefix=/home/betnoa/midterm_ws/devel
+
+Name: captura_imagen
+Description: Description of captura_imagen
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

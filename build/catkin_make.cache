@@ -1,0 +1,2 @@
+camera_capture:captura_imagen
+-DCATKIN_DEVEL_PREFIX=/home/betnoa/midterm_ws/devel -DCMAKE_INSTALL_PREFIX=/home/betnoa/midterm_ws/install -G Unix Makefiles

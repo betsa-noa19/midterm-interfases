@@ -1,0 +1,8 @@
+prefix=/home/betnoa/midterm_ws/install
+
+Name: camera_capture
+Description: Description of camera_capture
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
